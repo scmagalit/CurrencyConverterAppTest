@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Currency Converter App",
+    "description": "Test app for learning React Native and Redux",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait"
+  }
+}
