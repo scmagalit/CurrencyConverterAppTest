@@ -1,8 +1,18 @@
 {
   "expo": {
     "name": "Currency Converter App",
+    "icon": "./app/components/Logo/images/Logo@square.png",
+    "slug": "currconv",
+    "version": "1.0.0",
     "description": "Test app for learning React Native and Redux",
     "sdkVersion": "27.0.0",
-    "orientation": "portrait"
+    "orientation": "portrait",
+
+    "android": {
+      "package": "com.example.currconv"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.currconv"
+    }
   }
 }
